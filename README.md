@@ -1,2 +1,1 @@
-# PythonRepo
-Python Concept
+This Repo will help to understand basic python concept for learning
